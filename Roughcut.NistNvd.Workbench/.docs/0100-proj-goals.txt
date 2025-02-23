@@ -1,0 +1,5 @@
+-convert and create related models from nvd-xml and related data-parts
+
+-create ms-sql-server db that stores nvd-cpes, for later lookup
+
+-

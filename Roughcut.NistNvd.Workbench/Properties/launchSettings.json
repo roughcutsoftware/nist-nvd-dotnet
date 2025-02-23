@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Roughcut.NistNvd.Workbench": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

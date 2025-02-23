@@ -398,6 +398,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# exclude original test/working xml and zip files
 /Roughcut.NistNvd.Workbench/data-files/official-cpe-dictionary_v2.3.xml
 /Roughcut.NistNvd.Workbench/data-files/official-cpe-dictionary_v2.3.xml.zip
-/data-files/official-cpe-dictionary_v2.3.xml.zip
